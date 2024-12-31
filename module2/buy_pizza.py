@@ -3,7 +3,7 @@ print("Welcom To Fizza Hut")
 size=input("What size pizza do you want? S, M, or L: ")
 quantity=int(input("How many pizzas do you want? "))
 add_pepperoni=input("Do you want pepperoni? Y or N: ")
-price=5
+price=0
 
 match size:
     case "S":
@@ -15,7 +15,7 @@ match size:
 
 if add_pepperoni=="Y":
     price+=2
-    
+
 total_price=quantity*price
 
 print(f"Your final bill is: ${total_price}")
