@@ -16,14 +16,13 @@ This repository is where I:
 ## 🔗 Repository Structure
 - **Basics**: Simple scripts to learn Python fundamentals like variables, loops, and functions.
 - **Practice**: Small problems and exercises to improve my skills.
-- **Notes**: Personal notes and summaries of what I learn.
 
 ---
 
 ## 🌱 What I'm Learning
 Here’s what I’m currently focusing on:
 - ✅ Understanding variables and data types
-- ✅ Writing basic programs with loops and conditions
+- ✅ Writing basic programs
 - 🔄 Exploring functions and modules
 - 🔄 Learning to work with lists and dictionaries
 
