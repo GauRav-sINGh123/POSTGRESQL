@@ -22,7 +22,8 @@ This repository is where I:
 ## 🌱 What I'm Learning
 Here’s what I’m currently focusing on:
 - ✅ Understanding variables and data types
-- ✅ Writing basic programs
+- ✅ Understanding typecasting and math module and inbuilt functions
+- ✅ Writing basic programs Buy Pizza and Madlib Game
 - 🔄 Exploring functions and modules
 - 🔄 Learning to work with lists and dictionaries
 
