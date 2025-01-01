@@ -24,6 +24,7 @@ Here’s what I’m currently focusing on:
 - ✅ Understanding variables and data types
 - ✅ Understanding typecasting and math module and inbuilt functions
 - ✅ Writing basic programs Buy Pizza and Madlib Game
+- ✅ Understanding Conditionals like if,else,match case
 - 🔄 Exploring functions and modules
 - 🔄 Learning to work with lists and dictionaries
 
