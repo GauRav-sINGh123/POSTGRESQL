@@ -27,3 +27,4 @@ print("Hello {first_name} {last_name}") #without f output - Hello {first_name} {
 #The f before the string tells Python to evaluate any expressions inside curly braces {} and insert their results into the string.
 
 #{first_name} and {last_name} are placeholders that get replaced with the values of the variables first_name and last_name when the string is printed.
+
